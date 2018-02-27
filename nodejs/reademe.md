@@ -1,0 +1,15 @@
+# Example Node JS JWT Token Generator
+
+## Requirements
+* Node JS v6+
+
+##  Run
+```bash
+npm install
+node ./public-private-key.js
+```
+
+Output:
+``` 
+eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImtleS1pZC0xIn0.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWUsImlhdCI6MTUxOTczMzkyNH0.kFVYC4BkEOzq_YBpR2Yzgr4tlZ-jngoGXAewY88H5-F_IpElkj7iXt3FIVa1jj-19RCCiRk6cOPzXM4gzW-Kh42NrZjbx-x7ESO40gY70zC9UMBsBUD3l1NbbTn5cA6UBfpMx_E_8ehyy-MCB74acVUH80irRwtS9IM60kMNZz27cP5VrAV_6qNt8OZF3AQx9lr-C7mh62Uo7Z0PORAvRuTb8XCWjs9rqgt27ICsiQ5tfpeb9hpYQTAJcpbLUPGNIE9wq9igsRdZ2Uj27Itlhn2yECM9Kz88ZDQa4sZuxfUvcnOokli6rM861yG7vqDAifGZoZB6oyFl3cqII2pQMQ
+```
